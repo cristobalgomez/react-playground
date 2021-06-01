@@ -20,5 +20,4 @@ To start the JSON SERVER:
 
 ```bash
 npx json-server --watch data/db.json --port 8000
-cd svelte-app
 ```
