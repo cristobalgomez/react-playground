@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Tech",
+    "Sports",
+    "Creativity"
+  ],
+  "posts": [
+    {
+      "title": "bbff",
+      "body": "holahola",
+      "date": "2002-05-31T19:12:42.981Z",
+      "author": "tulio",
+      "category": "Tech",
+      "id": 8
+    },
+    {
+      "title": "hh",
+      "body": "gg",
+      "date": "2011-05-01T19:12:42.981Z",
+      "author": "bodoque",
+      "category": "Tech",
+      "id": 9
+    },
+    {
+      "title": "SFSDF",
+      "body": "SDFSDF",
+      "date": "2021-05-12T19:12:42.981Z",
+      "author": "bodoque",
+      "category": "Creativity",
+      "id": 10
+    },
+    {
+      "title": "copa america 2021",
+      "body": "brazil",
+      "date": "2021-05-31T19:20:44.879Z",
+      "author": "tulio",
+      "category": "Sports",
+      "id": 11
+    },
+    {
+      "title": "u de chile vs colo colo ",
+      "body": "omg!",
+      "date": "2021-06-01T00:04:38.705Z",
+      "author": "tulio",
+      "category": "Sports",
+      "id": 12
+    }
+  ]
+}
